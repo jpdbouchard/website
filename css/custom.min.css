@@ -1,0 +1,33 @@
+body {
+  padding-top: 0rem;
+}
+.first-container {
+  padding-top: 5rem;
+}
+
+.jumbotron {
+    background-image: url(../images/jumbotron.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color:azure;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+footer {
+    bottom: 0;
+    margin: auto;
+    width: 100%;
+}
+
+.col-md-8{
+    text-align: right;
+}
+
+.fab{
+    color: black
+}
+
+.work-details{
+    padding-bottom: 40px;
+}
